@@ -1,0 +1,34 @@
+# Header
+menu:
+  首页: /home
+  文章: /archives
+  随笔: /pages
+  前端: /web
+  后端: /server
+  导航: /menu
+
+# Content
+excerpt_link: More
+prev: Prev
+next: Next
+reply: Reply
+share: Share
+fancybox: true
+
+# Sidebar
+widgets:
+- search
+- music
+- category
+- recent_posts
+- tag
+- tagcloud
+
+# Miscellaneous
+google_analytics:
+duoshuo_shortname: 
+rss: 
+google_site_verification: 
+baidu_site_verification: 
+favicon: 
+music: 
