@@ -590,7 +590,7 @@ a:hover {
 
 /* Backgroud image */
 #bg {
-  background-image: url("images/body.jpg");
+  /* background-image: url("images/body.jpg"); */
   background-color: #050a10;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -643,6 +643,10 @@ a:hover {
 	padding: 0 24px;
 	padding: 0 1.714285714rem;
 	background-color: #2364af0f; /* Main Page */
+	/* background-image: 
+		linear-gradient(rgba(26, 224, 59, 0.199) 3%, transparent 3%),
+		linear-gradient(90deg, rgba(35, 63, 224, 0.199) 3%, transparent 5%);
+	background-size: 2% 1%; */
 }
 .site-content {
 	margin: 24px 0 0;
@@ -989,9 +993,9 @@ article.sticky .featured-post {
 .comment-content blockquote {
     margin: 0 0 24px;
     margin: 0 0 1.714285714rem;
-    border-left: 4px solid #aaa;
+    border-left: 4px solid #679fdf;
     padding: 0 15px;
-    color: #aaa;
+    color: rgb(238, 232, 232);
 }
 .entry-content blockquote>:first-child,
 .comment-content blockquote>:first-child {
